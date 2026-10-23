@@ -119,18 +119,6 @@ This demonstrated the difference between:
 - How to create a specific Windows Firewall rule rather than disabling the firewall.
 - How to verify two-way connectivity with ICMP.
 
-## Project Status
-
-**Complete**
-
-- [x] Kali Linux ARM64 VM
-- [x] Windows 11 ARM64 VM
-- [x] UTM virtual networking
-- [x] Windows to Kali connectivity
-- [x] Kali to Windows connectivity
-- [x] Windows Firewall troubleshooting
-- [x] Architecture documented
-- [x] Screenshots committed to repository
 
 ## Portfolio Structure
 
