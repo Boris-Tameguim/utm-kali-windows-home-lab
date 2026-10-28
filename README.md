@@ -2,7 +2,7 @@
 
 A hands-on home SOC lab built on an Apple Silicon Mac using **UTM**, **Kali Linux ARM64**, and **Windows 11 ARM64**.
 
-The goal of this project was to build two virtual machines, configure virtual networking, verify two-way communication, and troubleshoot a real Windows Firewall connectivity issue. This repository represents the completed first project in my cybersecurity home-lab portfolio.
+The goal of this project was to build two virtual machines, configure virtual networking, verify two-way communication, and troubleshoot a real Windows Firewall connectivity issue.
 
 ## Architecture
 
